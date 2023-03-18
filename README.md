@@ -2,7 +2,6 @@
     <img src="https://icey.fr/discord/banners/github.png">
 </p>
 
-<img align="center" src="https://icey.fr/discord/banners/nobg.png" style="width: 50px" onclick="window.location.href='https://docs.icey.fr/'"></img>
 
 ## Project Contributors
 
@@ -33,3 +32,6 @@ Please check the documentation for more info\
 | Linux | 20.03.2023 |
 | Mobile | No release date confirmed |
 
+[![discord](https://img.shields.io/badge/discord-gray?style=flat-square&logoColor=5865f2&link=https://discord.gg/ZD7jmbb3zc)](https://discord.gg/ZD7jmbb3zc)
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1048949069978017862)
