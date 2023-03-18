@@ -2,6 +2,8 @@
     <img src="https://icey.fr/discord/banners/github.png">
 </p>
 
+<img align="center" src="https://icey.fr/discord/banners/nobg.png" style="width: 50px" onclick="window.location.href='https://docs.icey.fr/'"></img>
+
 ## Project Contributors
 
 > Documentation: https://docs.icey.fr \
