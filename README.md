@@ -14,3 +14,4 @@ Please check the documentation for more info\
 | MacOS | Coming Soon |
 | Linux | Coming Soon |
 | Mobile | Coming Soon |
+ 
