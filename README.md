@@ -1,5 +1,4 @@
-# Airflow AI - Open-Source Discord bot
-## Welcome to the official GitHub repository!
+<h1 style="text-align: center;">airflowAI</h1>
 
 > Documentation: https://docs.icey.fr \
 > Owner: ~/icey\
@@ -8,7 +7,7 @@
 Please check the documentation for more info\
 **DO NOT CLAIM THE BOT AS YOUR OWN**
 
-## Platforms
+## Supported Platforms
 | Platform | State |
 | ----------- | ----------- |
 | Windows 8.1+ | Available |
