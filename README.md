@@ -5,7 +5,7 @@
 > Owner: ~/icey\
 > Co-Owner: Tomekjestfajny1
 
-Please check the documentation for more info
+Please check the documentation for more info\
 **DO NOT CLAIM THE BOT AS YOUR OWN**
 
 ## Platforms
