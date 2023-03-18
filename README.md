@@ -10,6 +10,8 @@
 > Owner: ~/icey\
 > Co-Owner: Tomekjestfajny1
 
+![](https://dcbadge.vercel.app/api/shield/1048949069978017862)
+
 ## About airflowAI
 
 Please check the documentation for more info\
