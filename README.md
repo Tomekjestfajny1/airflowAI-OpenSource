@@ -15,6 +15,11 @@
 ![](https://dcbadge.vercel.app/api/shield/978596696156147754)\
 ![](https://dcbadge.vercel.app/api/shield/814532228150198353)
 
+## Coded in
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+
 ## About airflowAI
 
 Please check the documentation for more info\
