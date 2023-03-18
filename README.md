@@ -2,7 +2,7 @@
 ## Welcome to the official GitHub repository!
 
 ### > Documentation: https://docs.icey.fr
-### > Owner: ~/icey\n>Co-Owner: Tomekjestfajny1
+### > Owner: ~/icey \n >Co-Owner: Tomekjestfajny1
 
 Please check the documentation for more info
 **DO NOT CLAIM THE BOT AS YOUR OWN**
