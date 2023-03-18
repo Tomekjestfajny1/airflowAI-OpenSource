@@ -8,7 +8,8 @@
 
 > Documentation: https://docs.icey.fr \
 > Owner: ~/icey\
-> Co-Owner: Tomekjestfajny1
+> Co-Owner: Tomekjestfajny1\
+> Second Co-Owner: Cossack_Bilh
 
 ![](https://dcbadge.vercel.app/api/shield/1048949069978017862)\
 ![](https://dcbadge.vercel.app/api/shield/978596696156147754)\
