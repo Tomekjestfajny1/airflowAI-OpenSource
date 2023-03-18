@@ -1,4 +1,6 @@
-<h1 style="text-align: center;">airflowAI</h1>
+<p align="center">
+    <img src="https://icey.fr/discord/banners/github.png">
+</p>
 
 ## Project Contributors
 
@@ -29,4 +31,3 @@ Please check the documentation for more info\
 | Linux | 20.03.2023 |
 | Mobile | No release date confirmed |
 
-<iframe src="google.com"></iframe>
