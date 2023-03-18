@@ -11,7 +11,8 @@
 > Co-Owner: Tomekjestfajny1
 
 ![](https://dcbadge.vercel.app/api/shield/1048949069978017862)\
-![](https://dcbadge.vercel.app/api/shield/978596696156147754)
+![](https://dcbadge.vercel.app/api/shield/978596696156147754)\
+![](https://dcbadge.vercel.app/api/shield/814532228150198353)
 
 ## About airflowAI
 
