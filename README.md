@@ -1,7 +1,7 @@
 # Airflow AI - Open-Source Discord bot
 ## Welcome to the official GitHub repository!
 
-> Documentation: https://docs.icey.fr\
+> Documentation: https://docs.icey.fr \
 > Owner: ~/icey\
 > Co-Owner: Tomekjestfajny1
 
