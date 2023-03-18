@@ -2,6 +2,7 @@
     <img src="https://icey.fr/discord/banners/github.png">
 </p>
 
+[![](https://dcbadge.vercel.app/api/server/ZD7jmbb3zc)](https://discord.gg/ZD7jmbb3zc)
 
 ## Project Contributors
 
@@ -31,7 +32,3 @@ Please check the documentation for more info\
 | MacOS | 21.04.2023 | 
 | Linux | 20.03.2023 |
 | Mobile | No release date confirmed |
-
-[![discord](https://img.shields.io/badge/discord-gray?style=flat-square&logoColor=5865f2&link=https://discord.gg/ZD7jmbb3zc)](https://discord.gg/ZD7jmbb3zc)
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1048949069978017862)
